@@ -606,6 +606,10 @@ progress {
   max-width: 100%;
   height: auto;
 }
+.img-custom {
+  max-width: 100%;
+  max-height: 400px;
+}
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -7389,7 +7393,9 @@ textarea.form-control-lg {
 .mb-5 {
   margin-bottom: 3rem !important;
 }
-
+.mb-6 {
+  margin-bottom: 6.3rem !important;
+}
 .mb-auto {
   margin-bottom: auto !important;
 }
